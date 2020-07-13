@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Technologies used:
+React -(https://reactjs.org/)
+Graphql - (https://graphql.org/)
+Apollo - (https://www.apollographql.com/)
+Tailwindcss - (https://tailwindcss.com/)
+Depoyed with Netflify - (https://www.netlify.com/)  (https://small-pokemon-api.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
